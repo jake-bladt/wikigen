@@ -1,0 +1,20 @@
+Spirits in ur-Tierra are manifestations of natural phenomena in which will and sometimes intelligence has arisen. Spirits are far more numerous and varied than living things and a complete taxonomy of spirits would be impossible. The mathematician-philosopher Argo of Kent postulated (and proved to his own satisfaction) that all natural phenomena will eventually generate spirits, but that “eventually” can be trillions of years.
+
+Among the living, the mystically powerful can, through agreement, coercion, or indifference, link to a spirit and use its essence to power spells. Even a tiny spirit can bestow a huge amount of power this way. In game terms, spells cast this way do not require the caster to memorize them, don’t count against the daily casting limit, don’t require material components, and don’t even require that the caster be of a class or school appropriate to casting it.
+
+Truly massive spirits often have names while lesser ones know themselves only as “a spirit of forest fire” (for example.) Genius loci share a name with the location they embody.
+
+The “size” of a spirit can be determined by it Essential rating. The more essential a spirit embodies, the more power can be drawn from it.
+
+The first and greatest of spirits are akyri prevmata, also known as void spirits. Argo describes them as “algorithms that arise from fluctuations of nothingness.” The oldest of these spirits existed for time immeasurable before the arrival of Lord Jieh, growing through a process of accumulating chains of void fluctuations with which they think. The akyri have no obvious needs and are functionally immortal unless drained faster than they can grow, so their motivations for direct action are frequently unknowable. There are many accounts of void spirits allowing wizards to link them without ever communicating any desire or intent. Akyri essence is used  to power privative (destructive) spells.
+
+Some (or one) akyri prevmata subsumed parts of Lord Jieh’s initial bringing of chaos into the ur-tierra and became or birthed chaos spirits (kaosgeister.) Shortly afterwards, a similar process gave rise to the first spirits of order (ordnunggeister.) All other spirits are descended from chaos or order and may have different genuses based on their path of descent.
+
+Lines of spiritual descent sometimes take unexpected paths as parent spirits spawn offspring in different ways. Sometimes, they create hybrids. Sometimes, the nature of the ancestor is denuded in the descendant.
+
+A few spirit types are listed below. The game statistics for them are templates to draw from and can be used for pure-essence spirits.
+
+== Void Spirits (akyri prevmata)
+Void spirits are made up of the void and can be used to power privative spells (those dealing in the removal of something.) The pool of spells which a link to a void spirit might power all involve taking something away and include Ray of Frost, Dispel Monster (I-IX,) Chill Touch, Blindness, Ghoul Touch, Nondetection, Vampiric Touch, Ice Storm, Circle of Death, Undead to Death, Disintigrate. Sequester, Finger of Death, Reverse Gravity, Mind Blank, Horrid Wilting, Symbol of Death
+
+Spirit: A spirit of mothers’ mourning (can be used to cast bless and crushing despair.)
